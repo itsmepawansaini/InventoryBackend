@@ -14,6 +14,7 @@ let allowedOrigins = [
 	"http://localhost:3000",
 	"http://localhost:4000",
 	"http://localhost:5000",
+	"https://dashboard-ucm4.onrender.com",
 ];
 
 // limit the number of requests from a single IP address
